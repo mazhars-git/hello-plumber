@@ -2,9 +2,13 @@
 
 Hello Plumber
 
-It is a plumber service site, which I designed by bootstrap, react js and mongodb.
+# Site Details: 
+
+It is a plumber service site, which I designed by bootstrap, react js and mongodb etc.
 
 Here I designed 6 pages and some back pages also like that dashboard, bookings, All bookings, book order etc.
+Here is a service section with some services. You can order any service by authentication system. 
+It is a complete project with client site and server site.
 
 # live link of the site:
 https://hello-plumber-project.web.app/
